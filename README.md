@@ -24,3 +24,6 @@ elementor
 jetsticky-for-elementor
 woocommerce
 contact-form-7
+Bootstrap studio
+Symfony
+Other code blocks from codepen/github etc.
