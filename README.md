@@ -26,4 +26,4 @@ woocommerce
 contact-form-7
 Bootstrap studio
 Symfony
-Other code blocks from codepen/github etc.
+Other code blocks (js) from codepen/github etc.
